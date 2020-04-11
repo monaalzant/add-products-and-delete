@@ -55,3 +55,5 @@ function deleteItem(id){
  }
  
  }
+
+ console.log('moon')

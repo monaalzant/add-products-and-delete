@@ -56,4 +56,4 @@ function deleteItem(id){
  
  }
 
- console.log('mona')
+ 
